@@ -1,5 +1,19 @@
 # Archivo Bloqueo
-0.0.0.0 *.netflix.com.*
-0.0.0.0 netflix.com
-0.0.0.0 .netflix.com
-0.0.0.0 betplay.com.co
+0.0.0.0	*.netflix.com.*
+0.0.0.0	netflix.com
+0.0.0.0	.netflix.com
+0.0.0.0	betplay.com.co
+0.0.0.0 anime-t.thundertime.net
+0.0.0.0 anime-wiki.org
+0.0.0.0 animecouncil.fansub-torrents.com
+0.0.0.0 animeforever.org
+0.0.0.0 animeindex.net
+0.0.0.0 animelab.com
+0.0.0.0 animeplanetnet.edwardk.info
+0.0.0.0 animetorrents.com
+0.0.0.0 animetsuki.ath.cx
+0.0.0.0 animeu.edwardk.info
+0.0.0.0 animex.com
+0.0.0.0 animeyuki.edwardk.info
+0.0.0.0 animeyume.org
+0.0.0.0 antsmarching.org
