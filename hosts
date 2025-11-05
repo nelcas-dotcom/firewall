@@ -1,5 +1,5 @@
 # Archivo Bloqueo
-
+0.0.0.0 *.netflix.com.*
 0.0.0.0 netflix.com
 0.0.0.0 .netflix.com
 0.0.0.0 betplay.com.co
