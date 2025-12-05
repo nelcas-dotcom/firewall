@@ -1,18 +1,28 @@
-0.0.0.0	netflix.com
-0.0.0.0	.netflix.com
-0.0.0.0	betplay.com.co
-0.0.0.0 anime-t.thundertime.net
-0.0.0.0 anime-wiki.org
-0.0.0.0 animecouncil.fansub-torrents.com
-0.0.0.0 animeforever.org
-0.0.0.0 animeindex.net
-0.0.0.0 animelab.com
-0.0.0.0 animeplanetnet.edwardk.info
-0.0.0.0 animetorrents.com
-0.0.0.0 animetsuki.ath.cx
-0.0.0.0 animeu.edwardk.info
-0.0.0.0 animex.com
-0.0.0.0 animeyuki.edwardk.info
-0.0.0.0 animeyume.org
-0.0.0.0 antsmarching.org
-0.0.0.0  .netflix.com.
+www.netflix.com
+help.netflix.com
+api.netflix.com
+nflxvideo.net
+nflximg.net
+nflxext.com
+nflxso.net
+netflix.net
+nflximg.com
+netflixinvestor.com
+fast.com
+api.fast.com
+nrdp.nccp.netflix.com
+nccp.netflix.com
+ichnaea.netflix.com
+betplay.com.co
+anime-t.thundertime.net
+anime-wiki.org
+animecouncil.fansub-torrents.com
+animeforever.org
+animeindex.net
+animelab.com
+animeplanetnet.edwardk.info
+animetorrents.com
+animetsuki.ath.cx
+animeu.edwardk.info
+animex.com
+animeyuki.edwardk.info
