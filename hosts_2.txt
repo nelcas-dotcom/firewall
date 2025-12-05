@@ -1,4 +1,5 @@
-www.netflix.com
+netflix.com
+netflilx.com.co
 help.netflix.com
 api.netflix.com
 nflxvideo.net
